@@ -1,0 +1,17 @@
+{
+  "base": {
+    "project": "QA_Guru_python_5_HW_14_Telegram",
+    "environment": "test env",
+    "comment": "test comment",
+    "reportLink": "",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "build/allure-report/widgets/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5897395667:AAFvEnqQIxDpxKIhSGSmMJh17QG9mPfw2SA",
+    "chat": "-1001631392946",
+    "replyTo": ""
+  }
+}
